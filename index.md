@@ -13,7 +13,7 @@ Tehtävänä on luoda GitHub pagesiin Markdown kielinen staattinen ja simppeli n
 
 ## Testailuja
 
-### Luettelo
+### Tehtävälista
 - [x] Koira
 - [ ] Kissa
 - [ ] Hamsteri
