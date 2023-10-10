@@ -4,11 +4,26 @@ Ekstra tehtävä Pilvipalvelut kurssissa.
 
 ## Sisältö
 - [Tehtävänanto](#tehtävänanto)
+- [Testailuja](#testailuja)
 - [GitHub](#github)
 - [Yhteystiedot](#yhteystiedot)
 
 ## Tehtävänanto
 Tehtävänä on luoda GitHub pagesiin Markdown kielinen staattinen ja simppeli nettisivusto.
+
+## Testailuja
+
+### Luettelo
+- [x] Koira
+- [ ] Kissa
+- [ ] Hamsteri
+
+### Huomio
+> [!Warning]
+> Varoitus
+
+### Kuva
+![Doge](/img/c09.webp)
 
 ## GitHub
 **Linkki tehtävän GitHubiin**
@@ -16,4 +31,5 @@ Tehtävänä on luoda GitHub pagesiin Markdown kielinen staattinen ja simppeli n
 
 ## Yhteystiedot
 Sähköposti: [t6joni00@students.oamk.fi](mailto:t6joni00@students.oamk.fi)
+
 Seuraa GitHubissa: [@NicoJstudent](https://github.com/NicoJstudent)
